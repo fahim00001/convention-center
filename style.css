@@ -2,6 +2,7 @@
 body{
     font-family: 'Lobster', cursive;
 font-family: 'Poppins', sans-serif;
+margin: 0px ;
 }
 .banner-button-custom{
     text-decoration: none;
@@ -47,7 +48,7 @@ font-family: 'Poppins', sans-serif;
 }
 .footer-bg-colour{
     background-color: #0B0D17;
- margin-top: 100px;
+ 
 }
 .copy-right-text{
     color: #D9DBE1;
