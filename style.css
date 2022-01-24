@@ -3,14 +3,47 @@ body{
     font-family: 'Lobster', cursive;
 font-family: 'Poppins', sans-serif;
 }
-.topsell-card-bg-color{
-
- color: black;   
- background-color:#3F87F;
- border-radius: 40px;
+.banner-button-custom{
+    text-decoration: none;
+    border: 0px solid;
+    background: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:#3F87F5;
+    font-weight: 700;
+    font-size: 16px;
 }
-.topsell-card-position{
+.topsell-card-bg-color{
+ background-color: #3F87F5;
+ border-radius: 40px;
+ color: white;
+ 
+}
+.topsell-card-btn-color{
+    text-decoration: none;
+    border: 0px solid;
+    background: white;  
+    color:#3F87F5;
+    border-radius: 20px;
+   padding: 13px 62px;
+   font-weight: 700;
+   font-size: 15px;
+}
 
+.fas-custom{
+    color: #5243c279;
+    ;
+}
+.package-btn-custom{
+   text-decoration: none;
+   border: 0px solid;
+   background-color: #f496d227;
+   color:#3F87F5 ;
+   border-radius: 20px
+   ;
+   padding: 13px 62px;
+   font-weight: 700;
+   font-size: 15px;
 }
 .footer-bg-colour{
     background-color: #0B0D17;
