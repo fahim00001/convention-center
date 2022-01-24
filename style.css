@@ -46,14 +46,10 @@ margin: 0px ;
    font-weight: 700;
    font-size: 15px;
 }
-.footer-bg-colour{
-    background-color: #0B0D17;
- 
-}
-.copy-right-text{
-    color: #D9DBE1;
-    font-weight: 400;
-    font-size: 14px;
+.tost-side{
+    position: relative;
+    left: 70%;
+    
 }
 .feedback-area-custom{
     background-color:#3F87F5 ;
@@ -65,4 +61,13 @@ margin: 0px ;
     color: white;
     padding: 6px 20px;
     border-radius: 10px;
+}
+.footer-bg-colour{
+    background-color: #0B0D17;
+ 
+}
+.copy-right-text{
+    color: #D9DBE1;
+    font-weight: 400;
+    font-size: 14px;
 }
